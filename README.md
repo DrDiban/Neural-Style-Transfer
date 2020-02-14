@@ -3,7 +3,7 @@ Neural style transfer applied to transfer room design
 
 ## Description
 | Style | Content Conv1_1 | Content Conv4_2 | Content Conv5_4 |
-| --- | --- | --- |
+| --- | --- | --- | -- |
 | Conv1_1 |<img src="Images/Style1/C-Conv1_1/c-conv1_1_s-conv1_1.jpg" width="100">|
 | Conv1_2 |<img src="Images/Style1/C-Conv1_1/c-conv1_1_s-conv1_2.jpg" width="100">|
 | Conv2_1 |<img src="Images/Style1/C-Conv1_1/c-conv1_1_s-conv2_1.jpg" width="100">|
