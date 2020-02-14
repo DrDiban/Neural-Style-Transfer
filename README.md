@@ -4,7 +4,7 @@ Neural style transfer applied to transfer room design
 ## Description
 | Style | Content Conv1_1 | Content Conv4_2 | Content Conv5_4 |
 | --- | --- | --- | -- |
-| Conv1_1 |<img src="Images/Style1/C-Conv1_1/c-conv1_1_s-conv1_1.jpg" width="200">|<img src="Images/Style1/C-Conv4_2/c-conv4_2_s-conv1_1.jpg" width="200">|<img src="Images/Style1/C-Conv5_4/c-conv5_4_s-conv1_1.jpg" width="200">|
+| Conv1_1 |<img src="Images/Style1/C-Conv1_1/c-conv1_1_s-conv1_1.jpg" width="300">|<img src="Images/Style1/C-Conv4_2/c-conv4_2_s-conv1_1.jpg" width="300">|<img src="Images/Style1/C-Conv5_4/c-conv5_4_s-conv1_1.jpg" width="300">|
 | Conv1_2 |<img src="Images/Style1/C-Conv1_1/c-conv1_1_s-conv1_2.jpg" width="200">|<img src="Images/Style1/C-Conv4_2/c-conv4_2_s-conv1_2.jpg" width="200">|<img src="Images/Style1/C-Conv5_4/c-conv5_4_s-conv1_2.jpg" width="200">|
 | Conv2_1 |<img src="Images/Style1/C-Conv1_1/c-conv1_1_s-conv2_1.jpg" width="200">|<img src="Images/Style1/C-Conv4_2/c-conv4_2_s-conv2_1.jpg" width="200">|<img src="Images/Style1/C-Conv5_4/c-conv5_4_s-conv2_1.jpg" width="200">|
 | Conv2_2 |<img src="Images/Style1/C-Conv1_1/c-conv1_1_s-conv2_2.jpg" width="200">|<img src="Images/Style1/C-Conv4_2/c-conv4_2_s-conv2_2.jpg" width="200">|<img src="Images/Style1/C-Conv5_4/c-conv5_4_s-conv2_2.jpg" width="200">|
