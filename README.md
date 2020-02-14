@@ -7,9 +7,13 @@ In this work, neural style transfer was used to transfer a room design to a targ
 
 Neural style transfer is based on VGG-19 model which has 19 layers, 16 convulation layers and 3 fully connected layers. Only the convulation layers will be used in Neural style transfer. 
 
-There are mutiple parameters that can be to tuned to obtain different outcome from neural style transfers. First, the choice of 
+There are mutiple parameters/hyperparameter that can be tuned to obtain different outcome on the target image from neural style transfers. First, the choice of content layer from the 16 convulation layers. Second, the choices of the style layers from the 16 convulation layers. Note that multiple layers can be used here and the impact of each layers on the outcome can be adjusted through changing the fraction of that layer on the overall style cost. Third, the the hyperparameter of alpha (weighting the importance of the content cost) and beta (weighting the importance of the style cost).   
 
-In this first part of this work, the
+In this first part of this work, the impact of using different style and cost layer on the outcome of the target image will be examined. To simply the scope of the work, only the three layers for content are chosen i.e. Conv1_1, Conv4_2 and Conv5_4. While for the style layer, only single layer rather than multiple layers are considered. All 16 convulation layers were considered for style. The hyperparameters of alpha and beta set at 10 and 30 respectively.
+
+In the second part of this work, the content and style layer identified in the first part that produces the best neural style transfer is used to transfer other room design images.  
+
+## Result
 
 | Style | Content Conv1_1 | Content Conv4_2 | Content Conv5_4 |
 | --- | --- | --- | -- |
