@@ -19,6 +19,7 @@ The target image is as shown below
 
 **Figure 1:** Target Image
 
+The style image for part 1 is as shown below 
 
 ## Result
 
