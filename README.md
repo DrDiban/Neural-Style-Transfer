@@ -19,15 +19,14 @@ The target image is as shown below
 
 **Figure 1 Target Image**
 
-.center[
 
-![My image](https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+<figure class="image">
+  <img src="{{ include.url }}" alt="{{ include.description }}">
+  <figcaption>{{ include.description }}</figcaption>
+</figure>
 
-.caption[
-**Fig. 1:** Image caption
-]
+{% include image.html url="Images/Target_Image/my_content.jpg" description="My cat, Robert Downey Jr." %}
 
-]
 ## Result
 
 | Style | Content Conv1_1 | Content Conv4_2 | Content Conv5_4 |
