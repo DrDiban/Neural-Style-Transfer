@@ -20,12 +20,13 @@ The target image is as shown below
 **Figure 1 Target Image**
 
 
-<figure class="image">
-  <img src="{{ include.url }}" alt="{{ include.description }}">
-  <figcaption>{{ include.description }}</figcaption>
+<figure>
+    <img src='/img/gdal-overview.png' />
+    <font size="2">
+    <figcaption> Abb.1: <a href= "http://r-spatial.org//2016/11/29/openeo.html">http://r-spatial.org//2016/11/29/openeo.html </a> 
+    </figcaption>
+    </font>
 </figure>
-
-{% include image.html url="Images/Target_Image/my_content.jpg" description="My cat, Robert Downey Jr." %}
 
 ## Result
 
