@@ -17,16 +17,8 @@ The target image is as shown below
 
 <img src="Images/Target_Image/my_content.jpg" width="400">
 
-**Figure 1 Target Image**
+           **Figure 1: Target Image**
 
-
-<figure>
-    <img src='/img/gdal-overview.png' />
-    <font size="2">
-    <figcaption> Abb.1: <a href= "http://r-spatial.org//2016/11/29/openeo.html">http://r-spatial.org//2016/11/29/openeo.html </a> 
-    </figcaption>
-    </font>
-</figure>
 
 ## Result
 
