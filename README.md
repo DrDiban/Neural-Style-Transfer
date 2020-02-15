@@ -19,7 +19,15 @@ The target image is as shown below
 
 **Figure 1 Target Image**
 
+.center[
 
+![My image](https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+
+.caption[
+**Fig. 1:** Image caption
+]
+
+]
 ## Result
 
 | Style | Content Conv1_1 | Content Conv4_2 | Content Conv5_4 |
