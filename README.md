@@ -17,7 +17,13 @@ The target image is as shown below
 
 <img src="Images/Target_Image/my_content.jpg" width="400">
 
-<space> **Figure 1:** Target Image
+<pre>
+hhhh
+    lllll
+</pre>
+
+
+**Figure 1:** Target Image
 
 The style image for part 1 is as shown below 
 
