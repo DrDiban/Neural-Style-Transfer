@@ -27,7 +27,7 @@ The style image for part 1 is as shown below.
 
 
 
- <img src="Images/Style1/my_style.jpg" alt="Right" title="Optional title" />
+ <img src="Images/Style1/my_style.jpg" alt="Right" title="Optional title" >
 
 
 ## Result
