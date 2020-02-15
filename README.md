@@ -21,6 +21,10 @@ The target image is as shown below
 
 The style image for part 1 is as shown below 
 
+<img src="Images/Style1/my_style.jpg" width="400">
+
+**Figure 2:** Style Image for part 1
+
 ## Result
 
 | Style | Content Conv1_1 | Content Conv4_2 | Content Conv5_4 |
