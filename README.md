@@ -25,6 +25,12 @@ The style image for part 1 is as shown below.
 
 **Figure 2:** Style Image for part 1
 
+
+<figure>
+  <img src="Images/Style1/my_style.jpg" alt=".." title="Optional title" />
+  <figcaption>Optional title</figcaption>
+</figure>
+
 ## Result
 
 | Style | Content Conv1_1 | Content Conv4_2 | Content Conv5_4 |
