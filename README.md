@@ -17,11 +17,7 @@ The target image is as shown below
 
 <img src="Images/Target_Image/my_content.jpg" width="400">
 
-<pre>
-hhhh
-    lllll
-....
-</pre>
+&nbsp; kgkgkg
 
 
 **Figure 1:** Target Image
