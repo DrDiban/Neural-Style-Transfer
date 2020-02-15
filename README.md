@@ -27,7 +27,7 @@ The style image for part 1 is as shown below.
 
 
 <figure>
-  <img src="Images/Style1/my_style.jpg" alt="center" title="Optional title" />
+  <img src="Images/Style1/my_style.jpg" alt="Right" title="Optional title" />
   <figcaption>Optional title</figcaption>
 </figure>
 
