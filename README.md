@@ -17,10 +17,7 @@ The target image is as shown below
 
 <img src="Images/Target_Image/my_content.jpg" width="400">
 
-&nbsp; kgkgkg
-
-
-**Figure 1:** Target Image
+&nbsp;         **Figure 1:** Target Image
 
 The style image for part 1 is as shown below 
 
