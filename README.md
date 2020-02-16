@@ -53,8 +53,10 @@ The style image for part 1 is as shown below.
 
 Layer 1 (Conv1_1) and layer 10 (Conv4_2) are chosen for style layer and content layer respectively for neural style transfer of other room styles. The result are shown in below figures.
 
-| Content Image | Style Image | Generated Image |
-| --- | --- | -- |
-|  <img src="Images/Target_Image/my_content.jpg" width="400">| | |
-| |uyyy | |
+<p float="left">
+
+|  <img src="Images/Target_Image/my_content.jpg" width="400">| 
+|:--:| 
+| Style 1 |
+
 
