@@ -15,13 +15,13 @@ In the second part of this work, the content and style layers identified in the 
 
 The target image is as shown below.
 
-<img src="Images/Target_Image/my_content.jpg" width="400">
+<img src="Images/Target_Image/my_content.jpg" width="400" align="center">
 
 **Figure 1:** Target Image
 
 The style image for part 1 is as shown below. 
 
-<img src="Images/Style1/my_style.jpg" width="400">
+<img src="Images/Style1/my_style.jpg" width="400" align="center">
 
 **Figure 2:** Style Image for part 1
 
