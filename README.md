@@ -15,7 +15,7 @@ In the second part of this work, the content and style layers identified in the 
 
 The target image is as shown below.
 
-<img src="Images/Target_Image/my_content.jpg" width="400" align="center">
+<img align="center" src="Images/Target_Image/my_content.jpg" width="400" align="center">
 
 **Figure 1:** Target Image
 
