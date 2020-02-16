@@ -27,6 +27,7 @@ The style image for part 1 is as shown below.
 
 
 ## Result
+### Part 1
 
 | Style | Content Conv1_1 | Content Conv4_2 | Content Conv5_4 |
 | --- | --- | --- | -- |
@@ -46,3 +47,6 @@ The style image for part 1 is as shown below.
 | Conv5_2 |<img src="Images/Style1/C-Conv1_1/c-conv1_1_s-conv5_2.jpg" width="300">|<img src="Images/Style1/C-Conv4_2/c-conv4_2_s-conv5_2.jpg" width="300">|<img src="Images/Style1/C-Conv5_4/c-conv5_4_s-conv5_2.jpg" width="300">|
 | Conv5_3 |<img src="Images/Style1/C-Conv1_1/c-conv1_1_s-conv5_3.jpg" width="300">|<img src="Images/Style1/C-Conv4_2/c-conv4_2_s-conv5_3.jpg" width="300">|<img src="Images/Style1/C-Conv5_4/c-conv5_4_s-conv5_3.jpg" width="300">|
 | Conv5_4 |<img src="Images/Style1/C-Conv1_1/c-conv1_1_s-conv5_4.jpg" width="300">|<img src="Images/Style1/C-Conv4_2/c-conv4_2_s-conv5_4.jpg" width="300">|<img src="Images/Style1/C-Conv5_4/c-conv5_4_s-conv5_4.jpg" width="300">|
+
+
+### Part 2
