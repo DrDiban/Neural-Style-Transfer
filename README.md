@@ -68,7 +68,7 @@ Layer 1 (Conv1_1) and layer 10 (Conv4_2) are chosen for style layer and content 
 
 |<img src="Images/Style3/my_style.jpg" width="400">|  <img src="Images/Style3/generated_image%20(7).jpg" width="400">| 
 |:--:| :--:| 
-| **Style 2 | Generated Image |
+| **Style 2** | Generated Image |
 
   
 
