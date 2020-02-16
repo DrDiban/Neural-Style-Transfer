@@ -13,13 +13,13 @@ In the first part of this work, the choice of using different style and cost lay
 
 In the second part of this work, the content and style layers identified in the first part that produces the best neural style transfer is used to transfer other room design to specified target image. 
 
-The target image is as shown below.
+The **target image** is shown below.
 
 <p align="center">
   <img align="center" src="Images/Target_Image/my_content.jpg" width="400" align="center">
 </p>
 
-The style image for part 1 is as shown below. 
+The **style image** for part 1 is shown below. 
 
 <p align="center">
   <img src="Images/Style1/my_style.jpg" width="400">
