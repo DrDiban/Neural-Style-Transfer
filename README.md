@@ -22,8 +22,8 @@ The target image is as shown below.
 The style image for part 1 is as shown below. 
 
 <p align="center">
-  |<img src="Images/Style1/my_style.jpg" width="400">|
-  |:--:|
+  | <img src="Images/Style1/my_style.jpg" width="400"> |
+  | :--: |
   | **Figure 2:** Style Image for part 1 |
 </p>
 
@@ -63,8 +63,10 @@ Layer 1 (Conv1_1) and layer 10 (Conv4_2) are chosen for style layer and content 
 |:--:| 
 | Target Image |
 
+<p align="center">
 |<img src="Images/Style2/generated_image%20(7).jpg" width="400">|  <img src="Images/Style2/my_style.jpg" width="400">| 
 |:--:| :--:| 
 | Style 1 | Generated Image |
+</p>
   
 
