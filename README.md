@@ -20,12 +20,16 @@ The target image is as shown below.
 **Figure 1:** Target Image
 
 The style image for part 1 is as shown below. 
-<center>Centered text</center>
+
 <p align="center">
   <img src="Images/Style1/my_style.jpg" width="400">
-  **Figure 2:** Style Image for part 1 
+  
 </p>
 
+<p align="center">
+  
+  **Figure 2:** Style Image for part 1 
+</p>
 
 
 
