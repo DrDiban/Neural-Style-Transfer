@@ -63,10 +63,10 @@ Layer 1 (Conv1_1) and layer 10 (Conv4_2) are chosen for style layer and content 
 |:--:| 
 | Target Image |
 
-<p align="center">
+<table align="center">
 |<img src="Images/Style2/generated_image%20(7).jpg" width="400">|  <img src="Images/Style2/my_style.jpg" width="400">| 
 |:--:| :--:| 
 | Style 1 | Generated Image |
-</p>
+</table>
   
 
