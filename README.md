@@ -21,7 +21,7 @@ The target image is as shown below.
 
 The style image for part 1 is as shown below. 
 
-<img src="Images/Style1/my_style.jpg" width="400" align="center">
+<img src="Images/Style1/my_style.jpg" width="400" align="right">
 
 **Figure 2:** Style Image for part 1
 
